@@ -1,0 +1,5 @@
+name: "persona_replica"
+title: "Build a Lifelike Persona Replica"
+description: "Turn a real person's photos, videos and speaking habits into a consistent AI persona whose chats, selfies, videos and proactive messages stay recognizably that person."
+category: "Work and knowledge"
+include_in_prompt: true

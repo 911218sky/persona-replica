@@ -1,0 +1,13 @@
+# Persona working data: never commit real people's material
+personas/
+references/
+*.private.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Misc
+*.log
