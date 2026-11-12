@@ -66,4 +66,4 @@ Corrections, better workflows, and additional worked examples are welcome. See [
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+AGPL-3.0 — see [LICENSE](LICENSE). If you run a modified version of this method as a network service, the AGPL requires you to offer your users the corresponding source.
